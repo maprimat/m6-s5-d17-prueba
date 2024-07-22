@@ -4,5 +4,5 @@ module.exports = defineConfig({
 })
 
 module.exports={
-    publicPath: "/PokemonGuess/"
+    publicPath: "/m6-s5-d17-prueba"
 }
